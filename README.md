@@ -16,6 +16,8 @@ This repository contains scripts and data related to the analysis and evaluation
 - `4.bert_model_evaluation.py`: Python script for evaluating the BERT model using the `mbti_bert_model.py` class.
 - `mbti_bert_model.py`: Final BERT model class used for MBTI classification.
 
+Please note that the final model weights are not included in the repository due to their size exceeding the limit for GitHub. The model weight file is approximately 1.24 GB.
+
 ## Usage
 
 1. **Data Extraction and Preprocessing**: Execute `1.data_extract.ipynb` to preprocess the data.
