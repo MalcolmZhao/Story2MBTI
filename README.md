@@ -25,7 +25,7 @@ This repository contains scripts and data related to the analysis and evaluation
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.12
 - PyTorch
 - Transformers library
 - Other dependencies as listed in individual scripts
