@@ -1,4 +1,4 @@
-# berkeley_ieor242B
+# Story2MBTI
 
 This repository contains scripts and data related to the analysis and evaluation of BERT models for MBTI classification as the group project for Berkeley INDENG 242B Group: Story to MBTI
 
